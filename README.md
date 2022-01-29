@@ -1,5 +1,3 @@
-# uabhishek007
-Config files for my GitHub profile.
 ### Hey there, I'm Abhishek <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 
 <h3> I am a Pre Final Year Undergraduate Student at VNR VJIET Hyderabad. </h3>
