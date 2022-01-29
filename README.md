@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhishek_u19@vnrvjiet.in**
 
-- ⚡ Fun fact **AI is the new ⚡electricity, I am a electrical engineer.**
+- ⚡ Fun fact **AI is the new ⚡electricity, I am an electrical engineer.**
 
 
 </p>
