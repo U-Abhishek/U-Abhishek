@@ -31,6 +31,7 @@
 <img width ='42px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' />
 <img width ='42px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png'/>
 <img width ='42px' align='left' src ='https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' />
+<img width ='42px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' />
 <img width ='42px' align='left' src ='https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg' />
 <img width ='42px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'/>
 <img width ='42px' align='left' src ='https://seaborn.pydata.org/_images/logo-mark-lightbg.svg'/>
