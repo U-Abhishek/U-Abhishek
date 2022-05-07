@@ -2,6 +2,9 @@
 
 <h3> I am a Pre Final Year Undergraduate Student at VNR VJIET Hyderabad. </h3>
 
+<h3> Major in Electrical and Electronics Engineering</h3>
+<h3> Minor in Artificial Intelligence and Machine Learning</h3>
+
 - 🔭 I’m currently working on **Image Segmentation Research.**
 
 - 🌱 I’m currently learning **Reinforcement Learning.**
