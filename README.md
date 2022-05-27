@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Image Segmentation Research.**
 
-- 🌱 I’m currently learning **Reinforcement Learning.**
+- 🌱 I’m currently learning **Reinforcement Learning and Robotics**
 
 - 🤝 I’m looking for **Research Internships.**
 
