@@ -5,11 +5,11 @@
 <h3> ⚡Major in Electrical and Electronics Engineering</h3>
 <h3> 🤖 Minor in Artificial Intelligence and Machine Learning</h3>
 
-- 🔭 I’m currently working on **Image Segmentation Research.**
+- 🔭 I’m currently working on **Robotics and Computer Vision Projects.**
 
 - 🌱 I’m currently learning **Reinforcement Learning and Robotics**
 
-- 🤝 I’m looking for **Internships.**
+- 🤝 I’m looking for **Internship.**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Robot Vision (anything "AI + Robtics").**
 
