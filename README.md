@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and Robotics**
 
-- 🤝 I’m looking for **Research Internships.**
+- 🤝 I’m looking for **Internships.**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Robot Vision (anything "AI + Robtics").**
 
-- 📫 How to reach me **abhishek_u19@vnrvjiet.in**
+- 📫 How to reach me **uabhishek2904@gmail.com**
 
 
 </p>
