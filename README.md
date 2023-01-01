@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **Internship.**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Robot Vision (anything "AI + Robtics").**
+- 💬 Ask me about **Deep Learning, Machine Learning, Robot Vision (anything "AI + Robtoics").**
 
 - 📫 How to reach me **uabhishek2904@gmail.com**
 
