@@ -18,7 +18,7 @@
 </p>
 <h3 align='left'> Connect with me here <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> </h3>
 <p align = 'left'>
-<a href = 'https://linkedin.com/in/u-abhishek'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'www.linkedin.com/in/abhishek-uddaraju'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://offjangir.github.io/> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 </p>
 <br>
