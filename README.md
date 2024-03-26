@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Robotics and Computer Vision Projects.**
 
-- 🌱 I’m currently learning **Reinforcement Learning and Robotics**
+- 🌱 I’m currently learning **AI and Robotics**
 
-- 🤝 I’m looking for **Internship.**
+- 🤝 I’m looking for **Internship / Co-op.**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, and Robot Vision (anything "AI + Robotics").**
 
