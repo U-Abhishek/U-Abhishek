@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for **Internship / Co-op.**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, and Robot Vision (anything "AI + Robotics").**
+- 💬 Ask me about **Autonomous Vehicles, Deep Learning, and Robot Vision (anything "AI + Robotics").**
 
 - 📫 How to reach me **uabhishek2904@gmail.com**
 
