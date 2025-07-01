@@ -1,18 +1,6 @@
 ### Hey there, I'm Abhishek Uddaraju<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 
-<h3> I am a graduate student at Northeastern  University Boston.  </h3>
-
-<h3> 🤖 MS in Robotics</h3>
-
-- 🔭 I’m currently working on **Robotics and Computer Vision Projects.**
-
-- 🌱 I’m currently learning **AI and Robotics**
-
-- 🤝 I’m looking for **Internship / Co-op.**
-
-- 💬 Ask me about **Autonomous Vehicles, Deep Learning, and Robot Vision (anything "AI + Robotics").**
-
-- 📫 How to reach me **uabhishek2904@gmail.com**
+<h3> I am a graduate student at Northeastern  University, Boston.  </h3>
 
 
 </p>
