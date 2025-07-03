@@ -5,8 +5,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:abhishek.uddaraju@example.com">
+  <a href="mailto:uabhishek2904@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://abhishekuddaraju.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4B32C3?style=for-the-badge&logo=globe&logoColor=white&labelColor=4B32C3&color=4B32C3" alt="Personal Website"/>
   </a>
 </div>
 
