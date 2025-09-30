@@ -20,8 +20,6 @@
 
 I'm a Machine Learning Engineer and graduate student at Northeastern University, with a strong foundation in AI and backend software development. My passion lies in building intelligent systems, software that not only runs but also learns, adapts, and solves real-world problems.
 
-I specialize in creating end-to-end machine learning solutions and robust backend architectures using modern frameworks and databases. From automating data pipelines to deploying scalable AI services, I've worked on software that delivers intelligence as a core feature, not just a layer.
-
 - 🎯 **Building** production-ready ML pipelines and AI applications
 - 🛠️ **Architecting** scalable backend systems with intelligent features
 - ☁️ **Deploying** AI services on cloud infrastructure with proper MLOps
