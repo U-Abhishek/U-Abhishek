@@ -23,7 +23,6 @@ I'm a Machine Learning Engineer and graduate student at Northeastern University,
 - 🎯 **Building** production-ready ML pipelines and AI applications
 - 🛠️ **Architecting** scalable backend systems with intelligent features
 - ☁️ **Deploying** AI services on cloud infrastructure with proper MLOps
-- 🤝 **Collaborating** on cutting-edge AI projects and research initiatives
 
 ---
 
